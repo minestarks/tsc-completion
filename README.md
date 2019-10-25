@@ -2,7 +2,7 @@
 
 ## bash completion spec for tsc
 
-Provides autocomplete for the [TypeScript](https://github.com/Microsoft/Typescript) compiler command line options, `tsc`.
+Provides autocomplete for the [TypeScript](https://github.com/Microsoft/Typescript) compiler's command line options.
 
 It's only prototype quality and I'm not a very good shell scripter nor a very good JavaScript developer. But it gets the job done.
 
