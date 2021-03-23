@@ -13,7 +13,7 @@ It's only prototype quality and I'm not a very good shell scripter nor a very go
 git clone https://github.com/minestarks/tsc-completion.git
 cd tsc-completion/
 npm install
-source ./register-tsc-completion.bash
+bash ./register-tsc-completion.bash
 ```
 
 Then start a new bash session.
